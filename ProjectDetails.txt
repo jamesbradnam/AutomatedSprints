@@ -1,0 +1,6 @@
+var accessToken = 
+var organisation = 
+var project = 
+var path = 
+var startDate = dd/MM/yyyy
+var sprintLengthDays = 14

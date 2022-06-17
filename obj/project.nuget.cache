@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGpCs/Wb8l0SnOT3yi334t9p/hkgkJqAL8sbSttcZhl7xWi0tFvOak72TQnC8sJXBTUthQR7D5yN6rxPfBDILw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jbrad\\Desktop\\Sartorius\\Git\\AutomatedSprints\\AutomatedSprints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbrad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\jbrad\Desktop\Sartorius\Git\AutomatedSprints\obj\Debug\net6.0\AutomatedSprints.csproj.AssemblyReference.cache
+C:\Users\jbrad\Desktop\Sartorius\Git\AutomatedSprints\obj\Debug\net6.0\AutomatedSprints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbrad\Desktop\Sartorius\Git\AutomatedSprints\obj\Debug\net6.0\AutomatedSprints.AssemblyInfoInputs.cache
+C:\Users\jbrad\Desktop\Sartorius\Git\AutomatedSprints\obj\Debug\net6.0\AutomatedSprints.AssemblyInfo.cs
+C:\Users\jbrad\Desktop\Sartorius\Git\AutomatedSprints\obj\Debug\net6.0\AutomatedSprints.csproj.CoreCompileInputs.cache
